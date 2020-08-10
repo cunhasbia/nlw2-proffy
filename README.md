@@ -18,7 +18,8 @@ It is a platform that connects students and teachers in a modern and objective w
 - Node.js<br>
 - Nunjucks<br>
 - SQLite<br>
-- Express<hr>
+- Express
+<hr>
 
 ## How to run the project?
 
