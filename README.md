@@ -28,10 +28,10 @@ Moreover, recommend use the [VSCode](https://code.visualstudio.com/) terminal.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cunhasbia/NextLevelWeek2
+$ git clone https://github.com/cunhasbia/nlw2-proffy
 
-# Access the repository on your terminal
-$ cd NextLevelWeek2
+# Access the repository on your terminal. Example:
+$ cd /nlw2-proffy
 
 # Install dependencies
 $ npm install
