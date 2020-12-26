@@ -1,4 +1,4 @@
-<p><img alt="NextLevelWeek" title="NextLevelWeek" src="./public/images/nlw.svg" width="150px" /></p>
+<p><img alt="NextLevelWeek" title="Next Level Week 2" src="./public/images/nlw.svg" width="150px" /></p>
 
 # Proffy - your online study platform
 
